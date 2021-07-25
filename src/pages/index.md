@@ -72,7 +72,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Another Button
-            url: '#'
+            url: /about
             style: link
             has_icon: false
             icon: arrow-left
