@@ -71,7 +71,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
+          - label: Another Button
             url: '#'
             style: link
             has_icon: false
